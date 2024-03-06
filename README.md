@@ -5,13 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bismillahtransport" alt="bismillahtransport" /></a> </p>
 
-- 🔭 I’m learning from Government college of technology **software development** PIAIC **Web3, and AI Enthusiast.**
+- • 🔭 I’m learning from Government college of technology **software development** 
+- • 🌱 I’m currently Learning advanced Programming stuffs.
+- • 📗 I'm currently Learning from Panaverse, PIAIC.
 
-- 👨‍💻 All of my projects are available at [https://github.com/bismillahtransport https://www.linkedin.com/in/sufiyan-awan-19b29a297//Typescript-assignments](https://github.com/bismillahtransport https://www.linkedin.com/in/sufiyan-awan-19b29a297//Typescript-assignments)
 
-- I am also a 3D artist [https://www.instagram.com/sufi3d/](https://www.instagram.com/sufi3d/)
+- • 👨‍💻 All of my projects are available at [https://github.com/bismillahtransport https://www.linkedin.com/in/sufiyan-awan-19b29a297//Typescript-assignments](https://github.com/bismillahtransport https://www.linkedin.com/in/sufiyan-awan-19b29a297//Typescript-assignments)
 
-- 📫 How to reach me **sufiyanawan675@gmail.com**
+- • I am also a 3D artist [https://www.instagram.com/sufi3d/](https://www.instagram.com/sufi3d/)
+
+- • 📫 How to reach me **sufiyanawan675@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
