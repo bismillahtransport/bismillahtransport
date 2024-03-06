@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm M.Sufiyan Ahmed</h1>
-<h3 align="center">I am currently learning software development & generative AI</h3>
+<h3 align="center">I am currently learning software development & generative & Blender 3D AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bismillahtransport&label=Profile%20views&color=0e75b6&style=flat" alt="bismillahtransport" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bismillahtransport" alt="bismillahtransport" /></a> </p>
 
-- 🔭 I’m currently learning from Government college of technology **software development**
+- 🔭 I’m learning from Government college of technology **software development** PIAIC **Web3, and AI Enthusiast.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bismillahtransport https://www.linkedin.com/in/sufiyan-awan-19b29a297//Typescript-assignments](https://github.com/bismillahtransport https://www.linkedin.com/in/sufiyan-awan-19b29a297//Typescript-assignments)
 
